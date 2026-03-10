@@ -32,7 +32,7 @@ The dataset includes the following morphological measurements:
 
 The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
-1. **Data cleaning** -- [TODO: What does the cleaning step do to handle missing values? Hint: look at section 3 and 4 of the script]
+1. **Data cleaning** -- removes some the NAs and creates a new object containing the cleaned daa 
 2. **Exploratory boxplots** -- [TODO: Which variable is plotted against species in the first boxplot? Hint: look at section 5]
 3. **Cluster analysis** -- [TODO: Which two measurements are used to show how species cluster? Hint: look at section 7]
 4. **Regression analysis** -- [TODO: What relationship does the regression plot examine? Hint: look at section 7]
