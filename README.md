@@ -1,31 +1,13 @@
-# Penguin Analysis
+# SUGMA NUTS BRO
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%> 
-Do the files actually make sense?
+<img src="https://i.pinimg.com/736x/9c/67/38/9c6738bf74f94adf5ed0f9e4170cbf2d.jpg" width=50%>
 
 
-## About the Data - I'm not really sure what's going on 
+6767676767676767676767676767676767676767
 
-This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
-
-**Research location:** Biscoe, Torgersen, Dream
-
-**Sample size:** 342
-
-**Years of data collection:** 2007-2009
-
-## Variables Measured
-
-The dataset includes the following morphological measurements:
-
-| Variable | Range |
-|----------|-------------|
-| `bill_length_mm` | 32.10-59.60 |
-| `bill_depth_mm` | 13.10-21.50 |
 | `flipper_length_mm` | 172.0-231.0 |
 | `body_mass_g` | 2700-6300 |
 
