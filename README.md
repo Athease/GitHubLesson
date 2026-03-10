@@ -13,9 +13,9 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Research location:** Biscoe, Torgersen, Dream
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** 342
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** 2007-2009
 
 ## Variables Measured
 
@@ -23,10 +23,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | 32.10-59.60 |
+| `bill_depth_mm` | 13.10-21.50 |
+| `flipper_length_mm` | 172.0-231.0 |
+| `body_mass_g` | 2700-6300 |
 
 ## What the Analysis Does
 
